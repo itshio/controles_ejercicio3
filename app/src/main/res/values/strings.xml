@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">controles_ejercicio3</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="provincia">Provincia</string>
+    <string name="edad">Edad</string>
+    <string name="casada">Casada</string>
+    <string name="soltera">Soltera</string>
+    <string name="viuda">Viuda</string>
+    <string name="divorciada">Divorciada</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="terminos">Acepto terminos</string>
+    <string name="estado">Estado civil</string>
+
+</resources>
