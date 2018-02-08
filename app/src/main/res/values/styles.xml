@@ -8,6 +8,20 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name= "estilogeneral_letras">
+
+        <item name= "android:textSize">@dimen/d10</item>
+        <item name= "android:layout_margin">@dimen/d15</item>
+        <item name= "android:padding">@dimen/d10</item>
+
+    </style>
+
+    <style name= "tipografia">
+
+        <item name= "android:textSize">@dimen/d15</item>
+
+    </style>
+
 
 
 </resources>
